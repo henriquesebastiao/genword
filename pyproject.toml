@@ -4,6 +4,17 @@ version = "0.1.0"
 description = "Genword é uma ferramenta simples de linha de comando para gerar wordlists."
 authors = ["Henrique Sebastião <contato@henriquesebastiao.com>"]
 readme = "README.md"
+packages = [{include = "genword"}]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Natural Language :: English",
+    "Environment :: Console",
+    "Topic :: Security",
+]
+
+[tool.poetry.urls]
+"Repository" = "https://github.com/henriquesebastiao/genword"
+"Bug Tracker" = "https://github.com/henriquesebastiao/genword/issues"
 
 [tool.poetry.dependencies]
 python = "^3.11"

@@ -1,5 +1,9 @@
 # Genword
 
+[![codecov](https://codecov.io/gh/henriquesebastiao/genword/graph/badge.svg?token=1l33SfJIyG)](https://codecov.io/gh/henriquesebastiao/genword)
+[![CI](https://github.com/henriquesebastiao/genword/actions/workflows/ci.yml/badge.svg)](https://github.com/henriquesebastiao/genword/actions/workflows/ci.yml)
+[![PyPI version](https://badge.fury.io/py/genword.svg)](https://badge.fury.io/py/genword)
+
 Genword é uma ferramenta simples de linha de comando, escrita em Python, que gera todas as combinações possíveis de caracteres, dado um conjunto de caracteres e um comprimento.
 ## Instalação
 
